@@ -1,0 +1,2 @@
+timestamp,old_coef,current_lint,target_lint,error_pct,new_coef,converged,csv_source
+2026-09-17T10:03:16,0.00062,3196.2,3162.6,1.063,0.00062,True,output_nudge_ON.csv

@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below. Once the accompanying manuscript is published, please cite that paper instead/in addition — see README.md."
+type: software
+title: "C2K-GRO: Coupled Cotton2K-GroIMP Cotton Growth Model — Source Code and Data"
+abstract: >-
+  Daily bidirectional coupling of the process-based crop model Cotton2K and the
+  functional-structural plant modelling platform GroIMP, for simulating cotton
+  (cv. Tahe-2) growth under film-mulched drip irrigation in the Alar reclamation
+  area, southern Xinjiang, China. Includes source code, calibration/validation
+  parameter files, daily weather forcing, and model outputs for two growing
+  seasons (2022, 2025) used in bidirectional cross-validation.
+authors:
+  - family-names: Zhang
+    given-names: Ximeng
+    affiliation: "Tarim University"
+  - family-names: Fan
+    given-names: Zhenqi
+    affiliation: "Tarim University"
+    email: tarimfanzq@163.com
+  - family-names: Huang
+    given-names: Yufen
+    affiliation: "Tarim University"
+  - family-names: Duan
+    given-names: Xianyin
+    affiliation: "Tarim University"
+  - family-names: Li
+    given-names: Meiyun
+    affiliation: "Tarim University"
+  - family-names: Wang
+    given-names: Tianping
+    affiliation: "Tarim University"
+  - family-names: Gao
+    given-names: Ziqi
+    affiliation: "Tarim University"
+version: 1.0.0
+date-released: "2026-09-18"
+license: MIT
+# repository-code: "FILL IN once the GitHub repository has been created, e.g. https://github.com/<user>/C2K-GRO"
+# doi: "FILL IN once Zenodo mints the DOI after the first GitHub release"
+keywords:
+  - cotton
+  - crop model
+  - functional-structural plant model
+  - Cotton2K
+  - GroIMP
+  - process-structure coupling
+  - Xinjiang
