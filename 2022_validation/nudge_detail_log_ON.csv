@@ -1,0 +1,5 @@
+groimp_day,date,groimp_lai_today,c2k_lai_today,rel_diff_pct,nudge_wlf_delta,wlf_post,c2k_dev_stage
+48,2022-06-17,1.3369,1.5783,15.3,-3.1773,115.2439,squaring
+139,2022-09-16,0.9705,1.1649,16.68,-0.2295,97.0136,mature
+140,2022-09-17,0.9206,1.1327,18.72,-0.257,95.5834,mature
+141,2022-09-18,0.92,1.1012,16.46,-0.2201,94.2151,mature

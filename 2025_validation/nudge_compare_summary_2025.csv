@@ -1,0 +1,3 @@
+﻿config,year,lint_yield_kgha,yield_obs_kgha,yield_err_pct,harvest_eff,path3_upper,lai_peak_sim,lai_peak_obs,lai_peak_dae_sim,lai_n,lai_NSE,lai_RMSE,lai_nRMSE_pct,lai_MBE,lai_MAE,lai_d,lai_r
+NudgeON,2025,3658.5,3163.0,15.67,0.882,4148.0,4.8012,4.2,82.0,20,0.98892,0.15048,7.05333,0.02787,0.11058,0.99733,0.99555
+NudgeOFF,2025,3780.0,3163.0,19.51,0.9113,4148.0,5.5207,4.2,82.0,20,0.92181,0.39977,18.73754,0.23431,0.27103,0.98373,0.99352
